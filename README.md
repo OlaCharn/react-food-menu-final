@@ -1,5 +1,5 @@
 # 🥧 Food notes
-
+I have made this project to learn React by building applications.
 
 
 ![Food menu notes]()
