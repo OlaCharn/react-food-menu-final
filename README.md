@@ -4,7 +4,7 @@ I have made this project to learn React by building applications.
 
 ![Food menu notes](https://github.com/OlaCharn/react-food-menu-final/blob/main/src/screenshot.png?raw=true)
 
-⭐ Deployed at: (<>)
+⭐ Deployed at: (<https://food-notes-menu-final.netlify.app/>)
 
 ## 🚀Getting Started 
 
