@@ -9,7 +9,7 @@ I have made this project to learn React by building applications.
 ## 🚀Getting Started 
 
 clone this repository to your computer:
-> git clone hthttps://github.com/OlaCharn/react-food-menu-final.git
+> git clone https://github.com/OlaCharn/react-food-menu-final.git
  
  navigate to the project directory
 > cd react-food-menu-final
